@@ -5,20 +5,20 @@
 
 -This is a simple project which is design a menu with some options for users to choose and play with..
 
-## Programming Language
+## ***Programming Language***
 
 -Entirely using Java
 
 
-## ***Technique***
+## **Technique**
 
 -Using some basic core of Java programming language such as :
 
--Do/while loop.
-*Enhanced switch case.
-+Method operations.
-*Inheritance.
-+Abstract methods.
+Do/while loop.
+Enhanced switch case.
+Method operations.
+Inheritance.
+Abstract methods.
 
 
 
