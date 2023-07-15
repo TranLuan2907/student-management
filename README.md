@@ -1,4 +1,4 @@
-======================== STUDENT MANAGEMENT SYSTEM =======================
+======================== STUDENT MANAGEMENT SYSTEM ================
 
 # Summary
 
@@ -28,4 +28,4 @@ Please make sure to update tests as appropriate.
 ## License
 
 ©2023 by TranLuan2907 | https://www.facebook.com/ngockinhluan.tran |
-============================== Ooo ===========================================
+============================== Ooo ================================
