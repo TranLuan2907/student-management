@@ -3,11 +3,12 @@
 
 # Summary
 
-This is a simple project which is design a menu with some options for users to choose and play with..
+-This is a simple project which is design a menu with some options for users to choose and play with..
 
 ## Programming Language
 
-Entirely using Java
+-Entirely using Java
+
 
 ## Techniques 
 
@@ -18,6 +19,7 @@ Entirely using Java
 ->Method operations.
 ->Inheritance.
 ->Abstract methods.
+
 
 
 ## Contributing
