@@ -1,4 +1,5 @@
-======================== STUDENT MANAGEMENT SYSTEM ================
+======================== STUDENT MANAGEMENT SYSTEM ==================
+
 
 # Summary
 
@@ -10,12 +11,13 @@ Entirely using Java
 
 ## Techniques 
 
-Using some basic core of Java programming language such as :
--Do/while loop.
--Enhanced switch case.
--Method operations.
--Inheritance.
--Abstract methods.
+-Using some basic core of Java programming language such as :
+
+->Do/while loop.
+->Enhanced switch case.
+->Method operations.
+->Inheritance.
+->Abstract methods.
 
 
 ## Contributing
@@ -26,6 +28,6 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 
 ## License
-
 ©2023 by TranLuan2907 | https://www.facebook.com/ngockinhluan.tran |
-============================== Ooo ================================
+
+============================== Ooo =====================================
