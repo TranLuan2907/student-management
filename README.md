@@ -14,11 +14,15 @@
 
 -Using some basic core of Java programming language such as :
 
-Do/while loop.
-Enhanced switch case.
-Method operations.
-Inheritance.
-Abstract methods.
+->Do/while loop.
+
+->Enhanced switch case.
+
+->Method operations.
+
+->Inheritance.
+
+->Abstract methods.
 
 
 
